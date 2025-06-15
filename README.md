@@ -21,15 +21,19 @@ Here’s how we approached it:
 The result? A unique, hands-on anatomy puzzle that challenges users’ spatial skills while enhancing their understanding of the organ’s structure. By bringing together modern game development techniques and educational content, this project transformed complex medical material into a learning tool that anyone can engage with.
 
 ## ⚙️ Technologies used
-<p>
-  <img src="https://github.com/user-attachments/assets/9e14d02e-05d9-43d5-945f-311d71f4bc04" alt="C#" title="C#" width="95px" height="95px" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fb75835-9fa5-4525-ba11-8f07460afdd6" alt="C#" title="C#" width="80px" height="85px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="90px" height="90px" alt="Unity 3D" title="Unity 3D" />
-  <img src="https://github.com/user-attachments/assets/fa6d074d-2641-450e-8b67-3e533eb04fc0" width="98px" height="98px" alt="Blender 3D" title="Blender 3D" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/78ee9c5c-fb13-4b06-b1b4-fedaa54f7dc3" width="93px" height="80px" alt="Blender 3D" title="Blender 3D" />
 </p>
+
+
 
 ## 📽️ Project Video
 
-https://github.com/user-attachments/assets/5a35b761-0a59-4785-8202-464c03b32507
+https://github.com/user-attachments/assets/83b9bcdd-0804-4544-b7e9-b233a84d272c
 
 ## 🦸‍♂️ Contributors
 - Mostafa Hany
